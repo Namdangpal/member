@@ -15,6 +15,6 @@ public class MemberApplication {
 
 	@GetMapping("/")
     public String hello() {
-        return "Hello from Spring Boot!";
+        return "Hello from Spring boot -dangpal";
     } 
 }
